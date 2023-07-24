@@ -1,6 +1,6 @@
-Car ShowCase Project
+# Car ShowCase Project
 
-Car ShowCase는 react.js,next.js,typescript,Tailwind CSS를 사용한 프로젝트입니다
+# Car ShowCase는 react.js,next.js,typescript,Tailwind CSS를 사용한 프로젝트입니다
 
 이 애플리케이션은 React를 기반으로 제작되었으며, 자동차 카탈로그를 검색하고 탐색할 수 있는 기능을 제공합니다.
 저희 웹 앱은 사용자가 원하는 자동차를 쉽게 찾을 수 있도록 검색 기능을 강화하였습니다. SearchBar 컴포넌트를 사용하여 제조사와 모델을 검색하면, 
